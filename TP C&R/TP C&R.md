@@ -4,8 +4,7 @@
 
 - 1st E-mail
 
-instance.zip 
-
+instance.zip
 RecursiviteCimpres.pdf
 
 - 2nd E-mail
@@ -27,9 +26,6 @@ Par exemple voilà à quoi ressemblent les deux premières :
    .. ## .. ## .. .. .. ..
 
    .. .. .. .. ## .. .. ..
-
- 
-
 s2.txt : hight 12 width 10 holes 12
 
    .. .. .. .. .. .. .. .. .. ..
@@ -57,5 +53,4 @@ s2.txt : hight 12 width 10 holes 12
    .. .. .. .. .. .. .. .. .. ..
 
 - 3rdE-mail
-
 uqb.zip
